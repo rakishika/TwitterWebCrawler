@@ -1,4 +1,8 @@
 # CS172 Project Phase 1 
+![Screenshot 2023-08-09 at 12 03 46 AM](https://github.com/rakishika/TwitterWebCrawler/assets/33856993/4b24c7b1-d051-450d-b387-56b908ddbefd)
+
+Link to demo video:
+https://www.youtube.com/watch?v=roeCK38RP8o
 
 
 ## Setup
